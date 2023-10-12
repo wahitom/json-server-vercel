@@ -1,9 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "movies": [
+    {
+      "id": "1",
+      "title": "Barbie",
+      "runtime": "114",
+      "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "poster": "https://www.themoviedb.org/t/p/original/u5kboZR4OMi4QdbOhawCZuzMVWJ.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Mission: Impossible – Dead Reckoni",
+      "runtime": "163",
+      "description": "Ethan Hunt and the IMF team must track down a terrifying new weapon that threatens all of humanity if it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins",
+      "poster": "https://tickmarq.s3.amazonaws.com/CACHE/images/veezi/posters/indyimax-ST00000912-poster-1686757468/c5760e03f9995e0de12f59a37847cbaa.jpg"
+    },
+    {
+      "id": "3",
+      "title": "John Wick: Chapter 4",
+      "runtime": "169",
+      "description": "With the price on his head ever increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7J6_MUL2nhlKn9XUMG53p5r82KWPjs_GsIQ&usqp=CAU"
+    },
+    {
+      "id": "4",
+      "title": "They Cloned Tyrone",
+      "runtime": "101",
+      "description": "A series of eerie events thrusts an unlikely trio onto the trail of a nefarious government conspiracy..",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUOEpvO1wVkFIAiots7daw6Vd3bJVPTiD_VQ&usqp=CAU"
+    },
+    {
+      "id": "5",
+      "title": "Tár",
+      "runtime": "96",
+      "description": "Renowned musician Lydia Tár is days away from recording the symphony that will elevate her career. When all elements seem to conspire against her, Lydia's adopted daughter Petra becomes an integral emotional support for her struggling mother.",
+      "poster": "https://www.themoviedb.org/t/p/original/9FSlyzf5qXOOxAthSFHzxB7iVGg.jpg"
+    }
+  ]
 }
